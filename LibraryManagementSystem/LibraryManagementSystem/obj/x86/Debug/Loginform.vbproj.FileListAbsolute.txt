@@ -1,0 +1,15 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\bin\Debug\Loginform.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\bin\Debug\Loginform.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\bin\Debug\Loginform.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\obj\x86\Debug\Loginform.Books.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\obj\x86\Debug\Loginform.Borrow.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\obj\x86\Debug\Loginform.BReturns.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\obj\x86\Debug\Loginform.Dashboard.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\obj\x86\Debug\Loginform.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\obj\x86\Debug\Loginform.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\obj\x86\Debug\Loginform.Staffs.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\obj\x86\Debug\Loginform.Students.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\obj\x86\Debug\Loginform.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\obj\x86\Debug\Loginform.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\obj\x86\Debug\Loginform.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\Loginform\obj\x86\Debug\Loginform.pdb
